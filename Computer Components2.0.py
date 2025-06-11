@@ -9,3 +9,4 @@ print(" 2. Enerji Dağıtımı: Güç kaynağından gelen elektriği sistem bile
 print(" 3. Veri Aktarımı:.Verilerin bileşenler arasında hızlı ve hatasız aktarılmasını sağlar")
 print(" 4. Genişleme İmkânı Sunma:") 
 print("PCI, PCI Express gibi yuvalar aracılığıyla ek kart ve bileşenlerin eklenmesine olanak sağlar.")
+print("Ekler")
