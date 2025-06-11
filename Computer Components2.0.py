@@ -1,0 +1,11 @@
+print("Anakart Nedir?") 
+print("Anakart (Motherboard), bilgisayarın tüm bileşenlerini birbirine bağlayan ve bu bileşenlerin iletişimini sağlayan merkezi elektronik devredir. Bilgisayarın iskeleti veya merkezi sinir sistemi olarak düşünebilirsiniz. Bilgisayarın işlemcisi, RAM'i, sabit diski, ekran kartı gibi parçaların hepsi doğrudan veya dolaylı olarak anakarta bağlanır.")
+print("")
+print("Anakartın Görevleri Nelerdir?")
+
+print(" 1. Bağlantı Sağlama:") 
+print("İşlemci, RAM, ekran kartı, diskler ve çevre birimleri gibi parçalar arasındaki iletişimi sağlar.")
+print(" 2. Enerji Dağıtımı: Güç kaynağından gelen elektriği sistem bileşenlerine uygun voltaj ve akım ile dağıtır.")
+print(" 3. Veri Aktarımı:.Verilerin bileşenler arasında hızlı ve hatasız aktarılmasını sağlar")
+print(" 4. Genişleme İmkânı Sunma:") 
+print("PCI, PCI Express gibi yuvalar aracılığıyla ek kart ve bileşenlerin eklenmesine olanak sağlar.")
